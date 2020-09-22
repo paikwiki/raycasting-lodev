@@ -81,6 +81,9 @@
 		<Unit filename="/Users/paikwiki/codes/42cursus/raycasting-lodev/main.c">
 			<Option target="raycasting_lodev"/>
 		</Unit>
+		<Unit filename="/Users/paikwiki/codes/42cursus/raycasting-lodev/main.h">
+			<Option target="raycasting_lodev"/>
+		</Unit>
 		<Unit filename="/Users/paikwiki/codes/42cursus/raycasting-lodev/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
