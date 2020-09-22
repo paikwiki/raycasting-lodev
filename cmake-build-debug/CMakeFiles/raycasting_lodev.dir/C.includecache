@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/paikwiki/codes/42cursus/raycasting-lodev/main.c
+main.h
+/Users/paikwiki/codes/42cursus/raycasting-lodev/main.h
+
+/Users/paikwiki/codes/42cursus/raycasting-lodev/main.h
+math.h
+-
+stdlib.h
+-
+mlx/mlx.h
+/Users/paikwiki/codes/42cursus/raycasting-lodev/mlx/mlx.h
+
+/Users/paikwiki/codes/42cursus/raycasting-lodev/mlx/mlx.h
+
