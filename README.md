@@ -9,4 +9,4 @@ Lode Vandevenne의 "[Lode's Computer Graphics Tutorial](https://lodev.org/cgtuto
 
 ## 저작권 안내
 
-이 저장소는 학습 목적으로 생성했습니다. 모든 예제 코드와 내용에 대한 저작권은 원저자에게 있습니다.
+이 저장소는 학습 목적으로 생성했습니다. [모든 예제 코드와 내용에 대한 저작권](https://lodev.org/cgtutor/legal.html)은 원저자에게 있습니다.
